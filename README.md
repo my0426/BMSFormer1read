@@ -57,7 +57,7 @@
 论文在 **Oxford**, **NASA**, **CALCE** 三个主流公开数据集上进行了验证。
 
 - **精度提升**：相比 CNN-Transformer, LSTM 等模型，BMSFormer 在 RMSE, MAE, MAPE 等指标上均表现最优，且对突变数据的跟踪能力更强。
-- **效率惊人**：
+- **效率提升**：
     -   训练时间减少约 **21.37%**。
     -   存储空间占用极低且稳定，适合嵌入式部署。
 
@@ -66,7 +66,7 @@
 > *该图展示了在不同超参数组合下，BMSFormer (红色) 相比于 CNN-Transformer, LSTM 等模型，始终保持最低且最稳定的存储空间占用。*
 
 ## 📚 参考资料
-- **引用格式**: Li, X., Zhao, M., et al. "BMSFormer: An efficient deep learning model for online state-of-health estimation..." Energy 313 (2024): 134030.
+- **引用格式**: X. Li, M. Zhao, S. Zhong, et al. BMSFormer: An efficient deep learning model for online state-of-health estimation of lithium-ion batteries under high-frequency early SOC data with strong correlated single health indicator[J]. Energy, 2024, 313: 134030.
 - **数据集来源**: Oxford Battery Dataset, NASA Prognostics Repository, CALCE Battery Group.
 
 <br>
