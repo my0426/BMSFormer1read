@@ -68,7 +68,7 @@ O artigo validou o modelo em três principais conjuntos de dados públicos: **Ox
 ## 📚 Referências
 - **Citação**: X. Li, M. Zhao, S. Zhong, et al. BMSFormer: An efficient deep learning model for online state-of-health estimation of lithium-ion batteries under high-frequency early SOC data with strong correlated single health indicator[J]. Energy, 2024, 313: 134030.
 - **Fontes de Dados**: Oxford Battery Dataset, NASA Prognostics Repository, CALCE Battery Group.
-- **PDF do artigo**: <a href="pdf/BMSFormer_Lee2_pure.pdf" style="color: #0078d4; text-decoration: none; font-weight: 500;">📄 BMSFormer_Lee2_pure.pdf</a> (Clique para visualizar/baixar)
+- **PDF do artigo**: <a href="pdf/BMSFormer.pdf" style="color: #0078d4; text-decoration: none; font-weight: 500;">📄 BMSFormer.pdf</a> (Clique para visualizar/baixar)
 
 <br>
 
